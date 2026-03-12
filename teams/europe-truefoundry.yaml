@@ -1,0 +1,12 @@
+members:
+- anzar@holcim.com
+type: team
+managers:
+- anzar@truefoundry.com
+tags:
+  region: Europe
+  company: TrueFoundry
+  department: Engineering
+  manager: Deepti
+  cost_center: ABC
+  billing_entity: ASDF
