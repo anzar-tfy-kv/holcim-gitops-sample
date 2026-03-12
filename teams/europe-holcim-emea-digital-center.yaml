@@ -1,0 +1,13 @@
+members:
+- dev1@holcim.com
+- dev2@holcim.com
+type: team
+managers:
+- manager1@holcim.com
+tags:
+  region: Europe
+  company: Holcim EMEA Digital Center
+  department: MyDepartment
+  manager: Daniel Cano
+  cost_center: TEST123
+  billing_entity: Holcim EMEA Digital Center
