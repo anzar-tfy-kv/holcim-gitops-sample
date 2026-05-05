@@ -1,0 +1,8 @@
+name: backend
+members:
+  - anzar@truefoundry.com
+type: team
+managers:
+  - anzar@truefoundry.com
+tags:
+  env: dev
